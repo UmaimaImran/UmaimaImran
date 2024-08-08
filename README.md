@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... cybersecurity field
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...beginner friendly pyhton projects to build up my base
-- 📫 How to reach me ...imran.006umaima@gmail.com
+- 📫 How to reach me ... imran.006umaima@gmail.com
 
 
 <!---
